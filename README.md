@@ -1,5 +1,5 @@
 - 👨‍💻 Olá, eu sou Monan Leal
-- Atualmente trabalho com Freelancer desenvolvendo sites
+- Atualmente trabalho como Freelancer desenvolvendo sites
 - Programo em JavaScript
 - Estou a procura de uma oportunidade como desenvolvedor Front-end
 
