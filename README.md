@@ -1,4 +1,4 @@
-👋🏻 Olá, eu sou o Monan Leal
+👋🏻 Olá, eu sou o Monan Leal 
 👨🏻‍💻 Desenvolvedor Front-End
 - Minha principal habilidade inclui JavaScript
 - Atualmente trabalho como Freelancer desenvolvendo sites
